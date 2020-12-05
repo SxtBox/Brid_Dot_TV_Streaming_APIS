@@ -1,7 +1,7 @@
 # Brid Dot TV Streaming APIS
 Brid Dot TV Streaming API SDK Multi Functions
 
-# Main
+# Main index
 https://paidcodes.albdroid.al/Brid_Dot_TV_APIS/
 
 # Main Streaming API
